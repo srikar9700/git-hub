@@ -1,2 +1,3 @@
 checking detach HEAD issue 
 now i updated this file
+now actualy test this detach head issue
