@@ -1,1 +1,2 @@
-checking detach HEAD issue
+checking detach HEAD issue 
+now i updated this file
